@@ -22,9 +22,14 @@ This analysis explores correlations between key financial metrics to understand 
 ![Revenue vs Profit Margin](plots/revenue_vs_profit_margin.png)
 
 ## Actionable Recommendations
-1. Evaluate profit margins alongside revenue growth.
-2. Closely monitor high-revenue, low-margin products.
-3. Consider promoting products with both strong revenue and healthy margins.
+
+1. **Webcam requires attention** — it has a notably high return rate, suggesting a mismatch between customer expectations and product reality. Improving quality or clarifying product specifications should be prioritized.
+
+2. **Aggressively promote the Docking Station** — it offers excellent profit margins and near-zero returns. Increasing its visibility and sales volume could significantly boost overall profitability.
+
+3. **High-revenue, low-margin products (such as Monitor) are risky** — they depend heavily on maintaining high sales volume. Reducing production costs or adjusting pricing could help widen margins and reduce vulnerability.
+
+4. **Revenue growth should not be pursued in isolation** — since revenue and profit margins show almost no correlation, growth strategies must also consider margin health.
 
 ## Limitations & Future Work
 - Synthetic dataset.
