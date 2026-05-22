@@ -1,0 +1,14 @@
+Correlation Matrix:
+                    revenue    profit  profit_margin_pct
+revenue            1.000000  0.971433          -0.027842
+profit             0.971433  1.000000           0.104182
+profit_margin_pct -0.027842  0.104182           1.000000
+
+                      
+Correlation Analysis Summary:
+Revenue vs Profit correlation: 0.971
+Revenue vs Profit Margin correlation: -0.028
+
+Key Business Insight:
+- High revenue strongly predicts higher absolute profit.
+- However, high revenue does NOT guarantee high profit margins.
